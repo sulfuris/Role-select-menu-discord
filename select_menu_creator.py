@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord_components import DiscordComponents, Select, SelectOption, Button, ButtonStyle
 
 
-import info
+import info  #info file is the file were is put my token, bot status and prefix
 
 intents = discord.Intents.all()
 
